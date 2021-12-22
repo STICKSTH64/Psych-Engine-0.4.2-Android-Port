@@ -48,6 +48,12 @@ class CreditsState extends MusicBeatState
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
+			['Vs Sticks Team'],
+			['Sticks Th 64',		'sticks',		'Creator of Sticks and Sprites',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
+			['Zardy Modder Mods',			'zardynomod',		'coder of the mod',				'https://twitter.com/river_oaken',		'0xFFC30085'],
+			['Fireworks Studios',				'funnyguy',			'composter of the sticks week',						'https://twitter.com/yoshubs',			'0xFF4494E6'],
+			['Mutant Krash',				'krash',		'Background Artists',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	'0xFF61536A'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
